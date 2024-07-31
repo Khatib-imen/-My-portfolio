@@ -49,7 +49,7 @@ const Contact = () => {
       name={"contact"}
       title="CONTACT ME"
       subTitle={"GET IN TOUCH"}
-      leftImage="static/img/title-4.jpg"
+      leftImage="static/img/title-2.jpg"
     >
       <div className="row">
         <div className="col-lg-12 m-30px-b sm-m-15px-b">
