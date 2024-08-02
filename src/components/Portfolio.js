@@ -153,13 +153,13 @@ const Portfolio = () => {
                     <div className="action-btn">
                       <a
                         className="lightbox-gallery theme-color"
-                        href="static/img/portfolio-5.jpg"
+                        href="static/img/portfolio-4.jpg"
                         title="Lightbox gallery image title..."
                       >
                         <i className="fas fa-expand" />
                       </a>
                       <a
-                        href="https://www.credly.com/badges/f7888cad-91eb-4825-8068-3efa37b08b74/linked_in_profile"
+                        href="https://www.credly.com/badges/5db010b4-a0c8-4d9b-8e23-2b8d19d95d7a"
                         className="theme-color"
                       >
                         <i className="fa fa-link" />
