@@ -107,7 +107,6 @@ const Portfolio = () => {
                 </div>
                 <div className="portfolio-info">
                   <h5>Website E-commerce</h5>
-                  <span>GOUA creation</span>
                 </div>
               </div>
             </li>
@@ -210,6 +209,150 @@ const Portfolio = () => {
                 </div>
               </div>
             </li>
+             {/*task one */}
+             <li className="portfolio-item app website">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/portfolio-7.jpg" title alt />
+                  </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        href="#"
+                        className="popup-video theme-color"
+                      >
+                        <i className="fa fa-play" />
+                      </a>
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/portfolio-7.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://github.com/Khatib-imen/Khatib-imen-PRODIGY_WD_01.git"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Responsive Landing Page for Clinic Site </h5>
+                </div>
+              </div>
+            </li>
+            {/*TAsk two */}
+            <li className="portfolio-item app website">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/portfolio-8.jpg" title alt />
+                  </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        href="#"
+                        className="popup-video theme-color"
+                      >
+                        <i className="fa fa-play" />
+                      </a>
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/portfolio-8.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://github.com/Khatib-imen/Khatib-imen-PRODIGY_02190_02.git"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>stopwatch</h5>
+                </div>
+              </div>
+            </li>
+            {/*Task three */}
+            <li className="portfolio-item app website">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/portfolio-9.jpg" title alt />
+                  </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        href="#"
+                        className="popup-video theme-color"
+                      >
+                        <i className="fa fa-play" />
+                      </a>
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/portfolio-9.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://github.com/Khatib-imen/Khatib-imen-PRODIGY_02190_03.git"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>tic-tac-toe</h5>
+                </div>
+              </div>
+            </li>
+            {/*Task five */}
+            <li className="portfolio-item app website">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/portfolio-10.jpg" title alt />
+                  </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        href="#"
+                        className="popup-video theme-color"
+                      >
+                        <i className="fa fa-play" />
+                      </a>
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/portfolio-10.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://github.com/Khatib-imen/Khatib-imen-PRODIGY_02190_05.git"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Weather App</h5>
+                </div>
+              </div>
+            </li>
           </ul>
         </div>
       </div>
@@ -219,3 +362,4 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
