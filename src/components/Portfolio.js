@@ -196,7 +196,7 @@ const Portfolio = () => {
                         <i className="fas fa-expand" />
                       </a>
                       <a
-                        href="https://www.credly.com/badges/5db010b4-a0c8-4d9b-8e23-2b8d19d95d7a/linked_in_profile"
+                        href="#"
                         className="theme-color"
                       >
                         <i className="fa fa-link" />
