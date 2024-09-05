@@ -58,7 +58,7 @@ location or input using and Weather API.<br/>
                 <div className="r-info">
                   <p>
                     <strong>WEB DEVELOPER:</strong><br />
-                    Creation of the social website of a company newsletter (HTML/CSS/JS/PHP/MYSQL)
+                    Cosmetic website "Beauty +" (HTML/CSS/JS/PHP)
                   </p>
                 </div>
               </li>
@@ -73,7 +73,6 @@ location or input using and Weather API.<br/>
                   <p>
                     <strong>WEB & GRAPHIC DESIGNER:</strong><br />
                     Conceptualization of graphic tools such as infographics, flyers, business cards, etc.
-                    Cosmetic website using: HTML/PHP/CSS/JavaScript/MySQL. Method: Scrum
                   </p>
                 </div>
               </li>
