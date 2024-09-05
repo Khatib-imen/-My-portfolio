@@ -353,6 +353,42 @@ const Portfolio = () => {
                 </div>
               </div>
             </li>
+                {/** */}
+           <li className="portfolio-item app website">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/portfolio-11.jpg" title alt />
+                  </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        href="#"
+                        className="popup-video theme-color"
+                      >
+                        <i className="fa fa-play" />
+                      </a>
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/portfolio-11.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="#"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Cosmetic App "Beauty+"</h5>
+                </div>
+              </div>
+            </li>          
           </ul>
         </div>
       </div>
