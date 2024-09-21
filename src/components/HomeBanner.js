@@ -24,7 +24,7 @@ const HomeBanner = () => {
                     <h1 className="dark-color blue-after">I'm Imen Khatib</h1>
                     <p>WEB <TypingAnimation /></p>
                     <div className="btn-bar">
-                      <a href="/imen_cv.pdf" className="btn btn-theme" download="imen_cv.pdf">
+                      <a href="/cv_imen.pdf" className="btn btn-theme" download="cv_imen.pdf">
                         Imen's CV
                       </a>
                     </div>
