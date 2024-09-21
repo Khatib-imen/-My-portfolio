@@ -141,6 +141,68 @@ const Portfolio = () => {
                 </div>
               </div>
             </li>
+    {/*data analysis */}
+            <li className="portfolio-item certifications">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/BI.jpg" title alt />
+                    </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/BI.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://coursera.org/share/c725d2ad73334f03dff8b633b85145df"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Business Analysis & Process Management</h5>
+                  <span>Coursera</span>
+                </div>
+              </div>
+            </li>
+            {/*Budgétisation et planification de projets */}
+            <li className="portfolio-item certifications">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/BDG.jpg" title alt />
+                    </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/BDG.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://coursera.org/share/649d1f2d1c4970fc20a790340b3df342"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Budgétisation et planification de projets</h5>
+                  <span>University of California, Irvine</span>
+                </div>
+              </div>
+            </li>
             {/**Cisco */}
             <li className="portfolio-item certifications">
               <div className="portfolio-col portfolio-hover-01">
