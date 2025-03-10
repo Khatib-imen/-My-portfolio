@@ -172,6 +172,37 @@ const Portfolio = () => {
                 </div>
               </div>
             </li>
+    {/*IBM */}
+            <li className="portfolio-item certifications">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/IBM.jpg" title alt />
+                    </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/IBM.jpg.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://coursera.org/share/8a5b7df6dbafeb2acbc2fe0ce9d82e88"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Generative AI Essentials for Software Developers </h5>
+                  <span>IBM</span>
+                </div>
+              </div>
+            </li>
             {/*Budgétisation et planification de projets */}
             <li className="portfolio-item certifications">
               <div className="portfolio-col portfolio-hover-01">
