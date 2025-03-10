@@ -400,6 +400,43 @@ const Portfolio = () => {
                 </div>
               </div>
             </li>
+ {/**chatbot */}
+            <li className="portfolio-item app website">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/chatbot.jpg" title alt />
+                  </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        href="/Vidéos/chatbot.mp4"
+                        className="popup-video theme-color"
+                      >
+                        <i className="fa fa-play" />
+                      </a>
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/portfolio-6.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="#"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Chatbot </h5>
+                  <span>Api open AI</span>
+                </div>
+              </div>
+            </li>
             {/*TAsk two */}
             <li className="portfolio-item app website">
               <div className="portfolio-col portfolio-hover-01">
