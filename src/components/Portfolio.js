@@ -183,7 +183,7 @@ const Portfolio = () => {
                     <div className="action-btn">
                       <a
                         className="lightbox-gallery theme-color"
-                        href="static/img/IBM.jpg.jpg"
+                        href="static/img/IBM.jpg"
                         title="Lightbox gallery image title..."
                       >
                         <i className="fas fa-expand" />
