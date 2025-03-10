@@ -417,7 +417,7 @@ const Portfolio = () => {
                       </a>
                       <a
                         className="lightbox-gallery theme-color"
-                        href="static/img/chatbot.mp4.jpg"
+                        href="static/img/chatbot.jpg"
                         title="Lightbox gallery image title..."
                       >
                         <i className="fas fa-expand" />
