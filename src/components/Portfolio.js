@@ -203,6 +203,68 @@ const Portfolio = () => {
                 </div>
               </div>
             </li>
+{/*deep leraning NVIDIA */}
+               <li className="portfolio-item certifications">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/DeepF.jpg" title alt />
+                    </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/DeepF.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://learn.nvidia.com/certificates?id=_T7XfgczSImT8yvIas9DBQ#"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Fundamentals of Deep Learning </h5>
+                  <span>NVIDIA</span>
+                </div>
+              </div>
+            </li>
+                {/*NLP Nvidia */}
+                <li className="portfolio-item certifications">
+              <div className="portfolio-col portfolio-hover-01">
+                <div className="portfolio-img">
+                  <a href="#">
+                    <img src="static/img/Nlp.jpg" title alt />
+                    </a>
+                  <div className="hover">
+                    <div className="action-btn">
+                      <a
+                        className="lightbox-gallery theme-color"
+                        href="static/img/Nlp.jpg"
+                        title="Lightbox gallery image title..."
+                      >
+                        <i className="fas fa-expand" />
+                      </a>
+                      <a
+                        href="https://learn.nvidia.com/certificates?id=1qUYvzCdTSyCLb4dHzCwVw"
+                        className="theme-color"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="portfolio-info">
+                  <h5>Building Transformer-Based Natural Language Processing Applications </h5>
+                  <span>NVIDIA</span>
+                </div>
+              </div>
+            </li>
             {/*Budgétisation et planification de projets */}
             <li className="portfolio-item certifications">
               <div className="portfolio-col portfolio-hover-01">
