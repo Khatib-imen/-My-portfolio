@@ -105,7 +105,7 @@ location or input using and Weather API.<br/>
                 </div>
                 <div className="r-info">
                   <p>
-                    <strong>Engineering Student :</strong> Specialized in Computer Software
+                    <strong>5th Year Engineering Student :</strong> Specialized in Software Engineering with a focus on Artificial Intelligence
                   </p>
                 </div>
               </li>
@@ -113,11 +113,16 @@ location or input using and Weather API.<br/>
                 <div className="r-name">
                   <i className="theme-bg fas fa-graduation-cap" />
                   <span className="dark-color">Higher Institute of Computer Science and Communication (ISITCOM)</span>
-                  <label>SEP 2023 - until now</label>
+                  <label>SEP 2023 - until now "Thesis Phase"</label>
                 </div>
                 <div className="r-info">
                   <p>
                     <strong>MR Student :</strong> Specialized in AI and Data Analysis
+          Specialized in Deep Learning (CNN, NLP) and AI models.
+
+Developing intelligent applications by implementing theoretical models (TensorFlow/PyTorch) into scalable solutions (APIs, edge devices).
+
+Conducting research resulting in a paper accepted at AMC-AI IEEE AMCAI 2025,
                   </p>
                 </div>
                 <div className="r-name">
