@@ -254,12 +254,7 @@ I have developed several AI-based and web applications in areas such as computer
 
          
           </div>{" "} <br/>
-          {/* row */}
-          <div className="btn-bar">
-            <a href="/imen_cv.pdf" className="btn btn-theme" download="imen_cv.pdf">
-              Download CV
-            </a>
-          </div>
+         
     
 
         </div>
