@@ -136,6 +136,17 @@ Conducting research resulting in a paper accepted at AMC-AI IEEE AMCAI 2025,
                 <div className="r-info">
                   <p>
                     <strong>Licence degree :</strong> Specialized in Internet of Things (IOT)
+            Key Skills: Web Development, Mobile App Development, Embedded Systems, IoT Applications
+
+Projects:
+
+Developed responsive web applications with React.js and Bootstrap.
+
+Built mobile apps for practical IoT solutions and real-time data collection.
+
+Implemented small-scale automation and embedded system projects.
+
+Technologies: JavaScript, React.js, HTML/CSS, Python, Arduino, IoT sensors.
                   </p>
                 </div>
               </li>
