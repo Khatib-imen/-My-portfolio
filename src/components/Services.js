@@ -14,6 +14,21 @@ const Services = () => {
           <div className="resume-row">
             <h2 className="theme-after dark-color">Experience</h2>
             <ul>
+         {/* Experience 0 */}
+              <li>
+                <div className="r-name">
+                  <i className="theme-bg ti-briefcase" />
+                  <span className="dark-color">Internship Winshot</span>
+                  <label>1 JULY - august 2025</label>
+                </div>
+                <div className="r-info">
+                  <p>
+                    <strong>AI intern:</strong> <br />
+                   
+Development of an AI agent for web scraping driven by objectives.<br/>
+                  </p>
+                </div>
+              </li>
               {/* Experience 1 */}
               <li>
                 <div className="r-name">
@@ -24,9 +39,7 @@ const Services = () => {
                 <div className="r-info">
                   <p>
                     <strong>WEB DEVELOPER:</strong> <br />
-                    Built a Stopwatch Web Application <br/>
-Created a Tic-Tac-Toe Web Application <br/>
-Developed a Personal Portfolio <br/>
+                   
 Built a Weather App that fetches and displays weather data from a weather API based on user
 location or input using and Weather API.<br/>
                   </p>
