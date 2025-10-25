@@ -135,13 +135,7 @@ const Contact = () => {
             <p>126, Street Sadrbaal, Jammal, Monastir, Tunisie.</p>
           </div>
         </div>
-        <div className="col-md-4 m-15px-tb">
-          <div className="contact-info">
-            <i className="theme-color ti-mobile" />
-            <h6 className="dark-color font-alt">Phone</h6>
-            <p>+216 50659115</p>
-          </div>
-        </div>
+     
         <div className="col-md-4 m-15px-tb sm-m-0px-b">
           <div className="contact-info">
             <i className="theme-color ti-email" />
