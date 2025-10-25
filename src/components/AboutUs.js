@@ -14,14 +14,68 @@ const AboutUs = () => {
  <div className="about-text">
             <h3 className="dark-color">I'm Imen Khatib</h3>
             <p className="m-0px">
-            I graduated in 2023 with a Bachelor's degree in Computer Systems Engineering.
-             Currently, I am pursuing a Master's degree in Artificial Intelligence and Data Analysis.
-              At the same time, I am continuing my studies in Computer Engineering.
-               I have developed applications in the field of e-commerce and am currently working on a website
-                for the company IMOTION+. I have strong skills in artificial intelligence and computer science
-                 in general. I am also skilled in motion graphic design....
+           I graduated in 2023 with a Bachelor's degree in Computer Systems Engineering.
+Currently, I am pursuing a dual academic path: a Master’s degree in Artificial Intelligence and Data Analysis at ISITCOM (University of Sousse) and a final-year Software Engineering program at EPI Sousse, specializing in Artificial Intelligence.
+My research focuses on the application of AI in agriculture, and I have published a scientific paper titled “Ensemble Learning on Real-World Data for Olive Oil Authentication and Olive Tree Yield Prediction”, accepted for presentation at the IEEE AMCAI 2025 .
+I have developed several AI-based and web applications in areas such as computer vision, NLP, and intelligent systems, and I am currently working on my engineering thesis (PFE) focused on AI-driven solutions.
+🔍 Currently, I am seeking a 6-month PFE internship starting in February 2026, where I can apply my skills in AI, machine learning, and software development within an innovative and research-oriented environment.
             </p> <br/>
             </div>            </div>
+  {/*skills 2*/}
+<div className="col-md-6 p-30px-l sm-p-15px-l sm-m-30px-t">
+  <h3 className="dark-color">Artificial Intelligence :</h3>
+  <div className="skills">
+    <div className="progress-lt">
+      <h6>Machine Learning</h6>
+      <span className="theme-bg">90%</span>
+      <div className="progress">
+        <div className="progress-bar" style={{ width: "90%" }}></div>
+      </div>
+    </div>
+
+    <div className="progress-lt">
+      <h6>Deep Learning (CNN, RNN)</h6>
+      <span className="theme-bg">85%</span>
+      <div className="progress">
+        <div className="progress-bar" style={{ width: "85%" }}></div>
+      </div>
+    </div>
+
+    <div className="progress-lt">
+      <h6>Natural Language Processing (NLP)</h6>
+      <span className="theme-bg">80%</span>
+      <div className="progress">
+        <div className="progress-bar" style={{ width: "80%" }}></div>
+      </div>
+    </div>
+
+    <div className="progress-lt">
+      <h6>Computer Vision (OpenCV, Mediapipe)</h6>
+      <span className="theme-bg">85%</span>
+      <div className="progress">
+        <div className="progress-bar" style={{ width: "85%" }}></div>
+      </div>
+    </div>
+
+    <div className="progress-lt">
+      <h6>Data Science & Visualization</h6>
+      <span className="theme-bg">88%</span>
+      <div className="progress">
+        <div className="progress-bar" style={{ width: "88%" }}></div>
+      </div>
+    </div>
+
+    <div className="progress-lt">
+      <h6>LLM Integration & Prompt Engineering</h6>
+      <span className="theme-bg">82%</span>
+      <div className="progress">
+        <div className="progress-bar" style={{ width: "82%" }}></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
         {/*skills 1*/}
 
           <div className="skill-row m-30px-t sm-m-20px-t">
