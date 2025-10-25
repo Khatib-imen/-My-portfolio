@@ -21,7 +21,55 @@ I have developed several AI-based and web applications in areas such as computer
 🔍 Currently, I am seeking a 6-month PFE internship starting in February 2026, where I can apply my skills in AI, machine learning, and software development within an innovative and research-oriented environment.
             </p> <br/>
             </div>            </div>
-  {/*skills 2*/}
+  
+  
+        {/*skills 1*/}
+
+          <div className="skill-row m-30px-t sm-m-20px-t">
+              <div className="sub-title m-30px-b">
+                     <h2 className="dark-color theme-after">IMEN's Skills</h2>
+          </div>
+                 <div className="row">
+                   <div className="col-md-6 p-30px-l sm-p-15px-l sm-m-30px-t">
+                        <h3 className="dark-color">Development :</h3> 
+                      <div className="skills">
+                         <div className="progress-lt">
+                             <h6>React js</h6>
+                                   <span className="theme-bg">92%</span>
+                             <div className="progress">
+                                 <div className="progress-bar" style={{ width: "92%" }}></div>
+                                 </div>
+                             </div>
+                           <div className="progress-lt">
+                                <h6>React Native</h6>
+                                 <span className="theme-bg">84%</span>
+                                   <div className="progress">
+                                     <div className="progress-bar" style={{ width: "84%" }}></div>
+                                   </div>
+                           </div>
+                                   <div className="progress-lt">
+                                         <h6>Node.js </h6>
+                                         <span className="theme-bg">88%</span>
+                                        <div className="progress">
+                                        <div className="progress-bar" style={{ width: "88%" }}></div>
+                                    </div>
+                      </div>
+                      <div className="progress-lt">
+                                         <h6>HTML5    </h6>
+                                         <span className="theme-bg">88%</span>
+                                        <div className="progress">
+                                        <div className="progress-bar" style={{ width: "88%" }}></div>
+                                    </div>
+                      </div><div className="progress-lt">
+                                         <h6> CSS3  </h6>
+                                         <span className="theme-bg">88%</span>
+                                        <div className="progress">
+                                        <div className="progress-bar" style={{ width: "88%" }}></div>
+                                    </div>
+                      </div>
+                     </div>
+                    </div>
+{/*skills 2*/}
 <div className="col-md-6 p-30px-l sm-p-15px-l sm-m-30px-t">
   <h3 className="dark-color">Artificial Intelligence :</h3>
   <div className="skills">
@@ -75,53 +123,6 @@ I have developed several AI-based and web applications in areas such as computer
   </div>
 </div>
 
-  
-        {/*skills 1*/}
-
-          <div className="skill-row m-30px-t sm-m-20px-t">
-              <div className="sub-title m-30px-b">
-                     <h2 className="dark-color theme-after">IMEN's Skills</h2>
-          </div>
-                 <div className="row">
-                   <div className="col-md-6 p-30px-l sm-p-15px-l sm-m-30px-t">
-                        <h3 className="dark-color">Development :</h3> 
-                      <div className="skills">
-                         <div className="progress-lt">
-                             <h6>React js</h6>
-                                   <span className="theme-bg">92%</span>
-                             <div className="progress">
-                                 <div className="progress-bar" style={{ width: "92%" }}></div>
-                                 </div>
-                             </div>
-                           <div className="progress-lt">
-                                <h6>React Native</h6>
-                                 <span className="theme-bg">84%</span>
-                                   <div className="progress">
-                                     <div className="progress-bar" style={{ width: "84%" }}></div>
-                                   </div>
-                           </div>
-                                   <div className="progress-lt">
-                                         <h6>Node.js </h6>
-                                         <span className="theme-bg">88%</span>
-                                        <div className="progress">
-                                        <div className="progress-bar" style={{ width: "88%" }}></div>
-                                    </div>
-                      </div>
-                      <div className="progress-lt">
-                                         <h6>HTML5    </h6>
-                                         <span className="theme-bg">88%</span>
-                                        <div className="progress">
-                                        <div className="progress-bar" style={{ width: "88%" }}></div>
-                                    </div>
-                      </div><div className="progress-lt">
-                                         <h6> CSS3  </h6>
-                                         <span className="theme-bg">88%</span>
-                                        <div className="progress">
-                                        <div className="progress-bar" style={{ width: "88%" }}></div>
-                                    </div>
-                      </div>
-                     </div>
-                    </div>
 
           {/*skills  2*/}
           <div className="col-md-6 p-30px-r sm-p-15px-r">
