@@ -100,12 +100,17 @@ location or input using and Weather API.<br/>
               <li>
                 <div className="r-name">
                   <i className="theme-bg fas fa-graduation-cap" />
-                  <span className="dark-color">EPI</span>
-                  <label>SEP 2023 - until now</label>
+                  <span className="dark-color">EPI International School</span>
+                  <label>2023–Ongoing</label>
                 </div>
                 <div className="r-info">
                   <p>
-                    <strong>5th Year Engineering Student :</strong> Specialized in Software Engineering with a focus on Artificial Intelligence
+                    <strong>5th Year Engineering Student :</strong> Specialized in Software Engineering with a focus on Artificial Intelligence.
+          Strong focus on software development and AI integration across applications.
+
+Motion Detection App: Integrated CNN models (TensorFlow Lite) for real-time motion analysis (Python, TensorFlow, Keras, OpenCV, Mediapipe).
+
+Academic HR Management Tool: Developed NLP-based automated CV screening; dashboard with React.js + Node.js backend for Human Resources management.
                   </p>
                 </div>
               </li>
