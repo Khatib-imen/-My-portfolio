@@ -22,7 +22,7 @@ const HomeBanner = () => {
                   <div className="home-text">
                     <h6 className="dark-color theme-after">Hello, There</h6>
                     <h1 className="dark-color blue-after">I'm Imen Khatib</h1>
-                    <p>AI Developer <TypingAnimation /></p>
+                    <p>AI  <TypingAnimation /></p>
                     <div className="btn-bar">
                       <a href="/cv_imen.pdf" className="btn btn-theme" download="cv_imen.pdf">
                         Imen's CV
